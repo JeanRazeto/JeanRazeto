@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jean
-- 👀 I’m interested in AI/Machine Learning, and gaming.
+- 👀 I’m interested in AI/Machine Learning, and VR/AR.
 - 🌱 I’m currently learning Full Stack Web Development, and AI/ML.
 - 📫 Reach me at jeanrazeto2003@gmail.com
 
