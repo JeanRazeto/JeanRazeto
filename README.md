@@ -11,7 +11,6 @@ Dev Student
 *   🧠  I'm learning C++, C#, AI/LLMs, Unreal Engine 5.3, VR/AR, AutoGen
 *   🤝  I'm open to collaborating on VR/AR // AI Agents
 *   ⚡  "My incessant and deplorable mania for analysis exhausts me. Doubting even my doubt. Reality continues being perpetual delusions within pandemonium."
-*   
 <a href="https://www.github.com/JeanRazeto" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/JeanRazeto?logo=github&style=for-the-badge&color=444e59&labelColor=1c1917" /></a>
 
