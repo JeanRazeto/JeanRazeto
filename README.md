@@ -8,7 +8,7 @@ Dev Student
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [jeanrazeto2003@gmail.com](mailto:jeanrazeto2003@gmail.com)
-*   🧠  I'm learning C#, AI/ML, Unreal Engine 5.3, VR/AR
+*   🧠  I'm learning C#, AI/ML, Unity/Unreal, VR/AR
 *   🤝  I'm open to collaborating.
 *   ⚡  "My incessant and deplorable mania for analysis exhausts me. Doubting even my doubt. Reality continues being perpetual delusions within pandemonium."
 
