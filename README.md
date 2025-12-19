@@ -6,7 +6,7 @@ Dev Student
 
 8+ years of coding, self-taught, and perpetually learning.
 
-*   🌍  I'm based in Florida
+*   🌍  I'm a resident of planet Earth.
 *   ✉️  You can contact me at [jeanrazeto2003@gmail.com](mailto:jeanrazeto2003@gmail.com)
 *   🧠  I'm learning C#, AI/ML, Unity/Unreal, VR/AR
 *   🤝  I'm open to collaborating.
