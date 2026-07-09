@@ -8,9 +8,9 @@ Dev Student
 
 *   🌍  I'm a resident of planet Earth.
 *   ✉️  You can contact me at [jeanrazeto2003@gmail.com](mailto:jeanrazeto2003@gmail.com)
-*   🧠  I'm learning C#, AI/ML, Unity/Unreal, VR/AR
+*   🧠  I'm learning C#, C++, AI/ML, Game Development, VR/AR
 *   🤝  I'm open to collaborating.
-*   ⚡  "My incessant and deplorable mania for analysis exhausts me. Doubting even my doubt. Reality continues being perpetual delusions within pandemonium."
+*   ⚡  "My incessant and deplorable mania for analysis exhausts me. Doubting even my doubt. Reality continues incessantly as perpetual delusions within pandemonium."
 
 <a href="https://www.github.com/JeanRazeto" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/JeanRazeto?logo=github&style=for-the-badge&color=444e59&labelColor=1c1917" /></a>
